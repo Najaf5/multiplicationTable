@@ -1,5 +1,5 @@
 def multiplicationTable(smaller, larger):
-	''' Returns a multiplication table containing all the products between the smaller and larger numbers.  '''
+	''' Returns a multiplication table containing all the products between the smaller and larger numbers inputed by the user.  '''
 	
 	table = []
 	output = "  "
